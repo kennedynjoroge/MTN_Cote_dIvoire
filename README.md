@@ -26,3 +26,6 @@ b) Recommend the strategy for upgrading the infrastructure within the given citi
 
 ## Known Bugs
 * Merging CDR and Cell's Geographic information inner join not working due to non-matching value. May be a data issue
+
+## License
+This code base uses Community License
